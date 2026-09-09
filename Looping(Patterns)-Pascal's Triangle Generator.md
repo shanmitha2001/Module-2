@@ -42,11 +42,13 @@ for i in range(a):
                      ncr=ncr*c
              print(int(ncr), end=" ")
     print("")
+
 ~~~
 
 
 ## Sample Output
-![Uploading image.png…]()
+<img width="302" height="310" alt="image" src="https://github.com/user-attachments/assets/85f9eb47-5f36-46f6-90d6-b761646e629c" />
+
 
 ## Result
 Thus, the python program was executed successfully
